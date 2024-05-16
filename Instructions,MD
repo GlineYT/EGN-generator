@@ -1,5 +1,4 @@
 HOW TO RUN:
 <br>
-Download the source code, open the terminal (cmd/powershell if you are on windows), cd into the folder where "EGN_BG.py" and "EGN_EN.py" are located, and type in 
+Download the source code, and click on EGN_EN.bat (EGN_EN.sh, if you are on linux) for the english version. And EGN_BG.bat (EGN_BG.sh if you are on linux) for the Bulgarian version
 <br>
-python EGN_BG.py to run the Bulgarian translation, and EGN_EN.py to run the english translation
